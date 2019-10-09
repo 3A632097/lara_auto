@@ -1,0 +1,15 @@
+{
+    "name": "ivy/lara_auto",
+    "authors": [
+        {
+            "name": "ivy-lin",
+            "email": "a0981792089@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+}
